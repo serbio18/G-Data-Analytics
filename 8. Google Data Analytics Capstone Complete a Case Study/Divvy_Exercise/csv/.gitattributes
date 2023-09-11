@@ -3,3 +3,4 @@
 202110-divvy-tripdata.csv filter=lfs diff=lfs merge=lfs -text
 202111-divvy-tripdata.csv filter=lfs diff=lfs merge=lfs -text
 202112-divvy-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+202201-divvy-tripdata.csv filter=lfs diff=lfs merge=lfs -text
