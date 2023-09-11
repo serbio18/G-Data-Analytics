@@ -7,3 +7,4 @@
 202202-divvy-tripdata.csv filter=lfs diff=lfs merge=lfs -text
 202203-divvy-tripdata.csv filter=lfs diff=lfs merge=lfs -text
 202204-divvy-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+202205-divvy-tripdata.csv filter=lfs diff=lfs merge=lfs -text
